@@ -1,1 +1,1 @@
-new jenkins.Gitflow().start()
+new com.probtp.jenkins.Gitflow().start()
