@@ -1,1 +1,1 @@
-new test1.jenkins.Gitflow().start()
+new jenkins.Gitflow().start()
